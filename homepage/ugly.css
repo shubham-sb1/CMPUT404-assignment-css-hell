@@ -1,0 +1,75 @@
+body{
+    margin: 10px;
+  text-align: right;
+  background-color: #602080;
+  padding:10px;
+  color: yellowgreen;
+  font-family: cursive;
+
+}
+
+.middle-container{
+    margin: 0px;
+    background-color:#602080;
+}
+h1{
+    font-size: 3.5rem;
+    margin: 50px auto 0 auto;
+  
+}
+h3{
+    font-size: 2.5rem;
+  
+}
+h2{
+    font-size: 1.5rem;
+}
+.heading{
+    background-color: #602080;
+    padding : 50px , 50px, 20px ,50px;
+    height: 200px;
+    
+}
+.pp{
+    float: left;
+    height: 600px;
+    width: 400px;
+    line-height: 0px;
+    padding-left: 4rem;
+}
+.work{
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-weight: bolder;
+ 
+}
+
+.offer{
+    margin-top: 0%;
+    padding-top: 0%;
+  
+
+}
+.work-row{
+    text-align: left;
+    line-height: 0px;
+}
+
+.offer-list{
+    text-align: left;
+    line-height: 0px;
+    text-align: center;
+}
+.sidebar{
+    background: green;
+    width: 40%;
+    height: 50%;
+    padding-bottom: 2rem;
+    padding-top: 0rem;
+    color: blue;
+    font-size: large;
+ 
+
+
+}
