@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+  text-align: center;
+  background-color: #C3F8FF;
+  padding: 0px;
+
+}
+
+.middle-container{
+    margin: 0px;
+    background-color: #C3F8FF;
+}
+h1{
+    font-size: 3.5rem;
+    margin: 50px auto 0 auto;
+  
+}
+h3{
+    font-size: 2.5rem;
+  
+}
+h2{
+    font-size: 1.5rem;
+}
+.heading{
+    background-color: #C3F8FF;
+    padding : 50px , 50px, 20px ,50px;
+    height: 200px;
+    
+}
+.pp{
+    float: left;
+    height: 200px;
+    width: 200px;
+    line-height: 0px;
+    padding-left: 4rem;
+}
+.work{
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+ 
+}
+.divider{
+    line-height: 0;
+
+}
+.offer{
+    margin-top: 0%;
+    padding-top: 0%;
+
+}
+.work-row{
+    text-align: left;
+    line-height: 0px;
+}
+
+.offer-list{
+    text-align: left;
+    line-height: 0px;
+}
+.sidebar{
+    background: rgb(4, 76, 118);
+    width: 20%;
+    height: 60%;
+    float: right;
+    padding-bottom: 2rem;
+    padding-top: 0rem;
+    color: white;
+ 
+
+
+}
